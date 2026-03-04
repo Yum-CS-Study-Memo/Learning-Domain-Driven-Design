@@ -69,9 +69,7 @@
 
 ## 💡 주요 개념 빠른 참조
 
-정리가 쌓이면 여기에 링크 추가 예정
-
-- [V] 낙관적 동시성 제어 (Optimistic Concurrency Control)
+- [V] [낙관적 동시성 제어 (Optimistic Concurrency Control)](https://github.com/Yum-CS-Study-Memo/Learning-Domain-Driven-Design/blob/main/part2/ch05/%EB%82%99%EA%B4%80%EC%A0%81%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4%20(Optimistic%20Concurrency%20Control).md)
 
 ---
 
