@@ -71,7 +71,7 @@
 
 정리가 쌓이면 여기에 링크 추가 예정
 
-- [V] 낙관적 동시성 제어 (Optimistic Concurrency Control)
+- [V] [낙관적 동시성 제어 (Optimistic Concurrency Control)](part2/ch05/낙관적 동시성 제어 (Optimistic Concurrency Control).md)
 
 ---
 
