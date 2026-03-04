@@ -71,12 +71,7 @@
 
 정리가 쌓이면 여기에 링크 추가 예정
 
-- [ ] 멱등성 (Idempotency)
-- [ ] 낙관적 동시성 제어 (Optimistic Concurrency Control)
-- [ ] 트랜잭션 스크립트 패턴
-- [ ] 바운디드 컨텍스트 (Bounded Context)
-- [ ] 애그리게이트 (Aggregate)
-- [ ] 도메인 이벤트 (Domain Event)
+- [V] 낙관적 동시성 제어 (Optimistic Concurrency Control)
 
 ---
 
