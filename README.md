@@ -70,12 +70,12 @@
 ## 💡 주요 개념 빠른 참조
 
 - [V] [낙관적 동시성 제어 (Optimistic Concurrency Control)](https://github.com/Yum-CS-Study-Memo/Learning-Domain-Driven-Design/blob/main/part2/ch05/%EB%82%99%EA%B4%80%EC%A0%81%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4%20(Optimistic%20Concurrency%20Control).md)
-
+- [V] [트랜잭션 스크립트 & 도메인 모델](https://github.com/Yum-CS-Study-Memo/Learning-Domain-Driven-Design/blob/main/part2/ch05/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20vs%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8.md)
 ---
 
 ## 🛠️ 사용 언어 / 환경
 
 - 예제 코드: `C#` (책 기준), 필요 시 `Python`으로 재작성
 - 다이어그램: Mermaid 또는 이미지 첨부
-
+)
 ---
